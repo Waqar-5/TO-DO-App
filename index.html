@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ultimate To-Do List</title>
+    <link rel="icon" type="image/png" href="./assets/task.png">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>✨ My Smart To-Do ✨</h1>
+
+    <!-- Dark mode toggle -->
+    <button id="themeToggle">🌙</button>
+
+    <!-- Input section -->
+    <div class="input-box">
+      <input type="text" id="input" placeholder="Enter a task..." required>
+      <select id="category">
+        <option value="General">General</option>
+        <option value="Work">Work</option>
+        <option value="Personal">Personal</option>
+        <option value="Study">Study</option>
+      </select>
+      <button id="addBtn" onclick="addTodo()">Add</button>
+      <button id="updateBtn" onclick="updateTodo()" style="display: none;">Update</button>
+    </div>
+
+  
+
+    <!-- Progress bar -->
+    <div class="progress-container">
+      <div id="progress-bar"></div>
+    </div>
+
+    <!-- Task list -->
+    <ul id="output"></ul>
+       <!-- 🌟 Footer Section -->
+  <footer>
+    <p>💻 Built with ❤️ by <strong>Waqar Ali</strong></p>
+    <p class="tagline">“Turning ideas into code & code into magic ✨”</p>
+    <div class="social-links">
+      <a href="mailto:wa5134810@gmail.com" target="_blank">📧 Email</a>
+      <a href="https://github.com/Waqar-5" target="_blank">🐙 GitHub</a>
+      <a href="https://www.linkedin.com/" target="_blank">💼 LinkedIn</a>
+    </div>
+  </footer>
+  </div>
+  
+
+  <script src="app.js"></script>
+</body>
+</html>
