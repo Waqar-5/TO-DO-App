@@ -20,11 +20,11 @@ It comes with **categories, progress tracking, edit/delete functionality, localS
 ## 📸 Demo Preview
 
 ### 🌞 Light Mode
-<img width="1324" height="630" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/9a20c183-9d7e-4e2b-9670-1d150318b417" />
+<img width="1351" height="633" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/22ae29c8-e85e-4a10-81f1-9e3eb5de8096" />
 
 ### 🌙 Dark Mode
-(<img width="1351" height="633" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/22ae29c8-e85e-4a10-81f1-9e3eb5de8096" />
-)
+<img width="1324" height="630" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/9a20c183-9d7e-4e2b-9670-1d150318b417" />
+
 
 ---
 
