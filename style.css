@@ -11,7 +11,7 @@ body {
   transition: background 0.3s;
 }
 
-/* 🌙 Dark mode */
+/* 🌙 Dark mode changer*/
 body.dark {
   background: linear-gradient(135deg, #232526, #414345);
   color: #f1f1f1;
