@@ -20,10 +20,12 @@ It comes with **categories, progress tracking, edit/delete functionality, localS
 ## 📸 Demo Preview
 
 ### 🌞 Light Mode
-![Light Mode Screenshot](./assets/)
+![Light Mode Screenshot](<img width="1324" height="630" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/9a20c183-9d7e-4e2b-9670-1d150318b417" />
+)
 
 ### 🌙 Dark Mode
-![Dark Mode Screenshot](./assets/dark-mode.png)
+![Dark Mode Screenshot](<img width="1351" height="633" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/22ae29c8-e85e-4a10-81f1-9e3eb5de8096" />
+)
 
 ---
 
@@ -37,34 +39,23 @@ It comes with **categories, progress tracking, edit/delete functionality, localS
 
 ## 📂 Project Structure
 
-Assignment_09_TO_DO_App/
-│
-├── Assignment_9/
+
+├── TO_DO_App/
+
 │ ├── index.html # Main UI (HTML structure)
+
 │ ├── style.css # Styling and animations
+
 │ ├── app.js # JavaScript functionality
+
 │ ├── assets/
+
 │ │ └── task.png # Favicon
+
 │ └── README.md # Project documentation
 
-yaml
-Copy code
 
 ---
-
-## 🧑‍💻 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-Navigate into the project folder:
-
-bash
-Copy code
-cd Assignment_09_TO_DO_App/Assignment_9
-Open index.html in any browser.
-
-That’s it! 🎉
 
 🎮 Usage
 Enter a task in the input field.
